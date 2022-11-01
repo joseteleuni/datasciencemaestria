@@ -1,0 +1,17 @@
+/*********************************************
+ * OPL 12.6.1.0 Data
+ * Author: Jose Lizarraga
+ * Creation Date: Oct 28, 2022 at 8:14:07 PM
+ *********************************************/
+// Matriz de costos variable por almacen
+
+c= [[12 ,13 ,6 ,0 ,1 ],
+     [8 ,4 ,9 ,1 ,2 ],
+     [2 ,6 ,6 ,0 ,1 ],
+     [3 ,5 ,2 ,1 ,8 ],
+     [8 ,0 ,5 ,10 ,8],
+     [2 ,0 ,3 ,4 ,1 ] ];
+
+// Vector de costos fijos de apertura de almacen
+
+f = [ 4, 3, 4, 4, 7]; 
